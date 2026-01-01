@@ -27,6 +27,7 @@ rules:
   - RULE-SET,google_domain,🍀 Google
   - RULE-SET,microsoft_domain,🪟 Microsoft
   - RULE-SET,apple_domain,DIRECT
+  - RULE-SET,speedtest_domain,DIRECT
   - RULE-SET,telegram_domain,📲 Telegram
   - RULE-SET,apple_ip,DIRECT
   - RULE-SET,google_ip,🍀 Google
