@@ -13,7 +13,7 @@ proxy-groups:
   - {name: 🇯🇵 日本自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(日|JP|(?i)Japan))^((?!(港|台|韩|新|美)).)*$"}
   - {name: 🇸🇬 狮城自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(新加坡|坡|狮城|SG|Singapore))^((?!(港|台|韩|日|美)).)*$"}
   - {name: 🇺🇸 美国自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "(?=.*(美|US|(?i)States|America))^((?!(港|台|日|韩|新)).)*$"}
-  - {name: 🌍 其他自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(港|HK|(?i)Hong|日|JP|(?i)Japan|新加坡|坡|狮城|SG|Singapore|美|US|(?i)States|America|DIRECT)).)*$"}
+  - {name: 🌍 其他自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(港|HK|(?i)Hong|日|JP|(?i)Japan|新加坡|坡|狮城|SG|Singapore|美|US|(?i)States|America|DIRECT|剩余|到期)).)*$"}
   - {name: ♻️ 全球自动, type: url-test, include-all: true, tolerance: 20, interval: 300, filter: "^((?!(DIRECT)).)*$"}
 
 # 规则匹配
