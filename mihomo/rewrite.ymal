@@ -5,7 +5,7 @@ proxy-groups:
   - {name: 🚀 默认代理, type: select, proxies: [🇭🇰 香港自动, 🇯🇵 日本自动, 🇸🇬 狮城自动, 🇺🇸 美国自动, 🌍 其他自动, 🚀 全球手动, DIRECT]}
   - {name: 🚀 全球手动, type: select, include-all: true}
   - {name: 🎬 EMBY, type: select, proxies: [🇭🇰 香港自动, 🇯🇵 日本自动, 🇸🇬 狮城自动, 🇺🇸 美国自动, 🌍 其他自动, 🚀 全球手动, DIRECT]}
-  - {name: 🤖 AI, type: select, proxies: [🇭🇰 香港自动, 🇯🇵 日本自动, 🇸🇬 狮城自动, 🇺🇸 美国自动, 🌍 其他自动,, 🚀 全球手动, DIRECT]}
+  - {name: 🤖 AI, type: select, proxies: [🇭🇰 香港自动, 🇯🇵 日本自动, 🇸🇬 狮城自动, 🇺🇸 美国自动, 🌍 其他自动, 🚀 全球手动, DIRECT]}
   - {name: 🪟 Microsoft, type: select, proxies: [🇭🇰 香港自动, 🇯🇵 日本自动, 🇸🇬 狮城自动, 🇺🇸 美国自动, 🌍 其他自动, 🚀 全球手动, DIRECT]}
   - {name: 📲 Telegram, type: select, proxies: [🇭🇰 香港自动, 🇯🇵 日本自动, 🇸🇬 狮城自动, 🇺🇸 美国自动, 🌍 其他自动, 🚀 全球手动, DIRECT]}
   - {name: 🐟 漏网之鱼, type: select, proxies: [🚀 默认代理, 🇭🇰 香港自动, 🇯🇵 日本自动, 🇸🇬 狮城自动, 🇺🇸 美国自动, 🌍 其他自动, 🚀 全球手动, DIRECT]}
